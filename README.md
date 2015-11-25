@@ -1,2 +1,3 @@
-# sample
-ryobyc
+mkdir awesome
+cd awesome
+git init
